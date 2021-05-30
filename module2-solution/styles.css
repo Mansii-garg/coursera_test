@@ -63,7 +63,7 @@ h3#head3 {
 		float: left;
 	}
 	.col-md-12{
-		width: 100;
+		width: 100%;
 		float: left;
 	}
 }
